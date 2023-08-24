@@ -1,0 +1,42 @@
+.header-navigator-item :hover {
+
+    color: brown;
+
+}
+
+.header-navigator-item-ctas :hover {
+
+    color: brown;
+}
+
+.logo {
+
+font-family: 'Raleway', sans-serif;
+font-weight: 700;
+
+}
+
+.header-navigator-item {
+
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+}
+
+.header-ctas {
+font-family: 'Roboto', sans-serif;
+}
+
+.hero {
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700; 
+    color: white 
+}
+
+.hero {
+
+    background: rgba(46, 47, 66, 1);
+
+}
+
