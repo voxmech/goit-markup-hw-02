@@ -13,6 +13,7 @@
 
 font-family: 'Raleway', sans-serif;
 font-weight: 700;
+color: rgba(77, 90, 229, 1);
 
 }
 
@@ -40,3 +41,33 @@ font-family: 'Roboto', sans-serif;
 
 }
 
+.features {
+
+    font-family: 'Roboto', sans-serif;
+    
+
+}
+
+.text-font-roboto-features
+{
+    font-weight: 400;
+ 
+
+}
+
+.what-are-we-doing-section
+{
+
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.our-team-section
+{
+    font-family: 'Roboto', sans-serif; 
+}
+
+.footer-item
+{
+    font-family: 'Roboto', sans-serif; 
+}
