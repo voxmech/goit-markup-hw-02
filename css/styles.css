@@ -1,0 +1,91 @@
+.header-navigator-item :hover {
+
+    color: brown;
+
+}
+
+.header-navigator-item-ctas :hover {
+
+    color: brown;
+}
+
+.logo {
+
+font-family: 'Raleway', sans-serif;
+font-weight: 700;
+color: rgba(77, 90, 229, 1);
+
+}
+
+.header-navigator-item {
+
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+}
+
+.header-ctas {
+font-family: 'Roboto', sans-serif;
+}
+
+.hero {
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700; 
+    color: white 
+}
+
+.hero {
+
+    background: rgba(46, 47, 66, 1);
+
+}
+
+.features {
+
+    font-family: 'Roboto', sans-serif;
+    
+
+}
+
+.text-font-roboto-features
+{
+    font-weight: 400;
+ 
+
+}
+
+.what-are-we-doing-section
+{
+
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.our-team-section
+{
+    font-family: 'Roboto', sans-serif; 
+}
+
+.footer-item
+{
+    font-family: 'Roboto', sans-serif; 
+}
+
+h3 {
+
+    font-weight: 500;
+}
+
+
+
+
+
+.images-item {
+
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-weight: 400;
+}
