@@ -1,20 +1,110 @@
 
+:root {
+    --primary-text-color: #757575;
+    --accent-color: #2196f3;
+    --primary-white-color: #ffffff;
+    --primary-black-color: #212121;
+    --logo-blue: rgba(77, 90, 229, 1);
+    --logo-black:#0000;
+    --text-white-opacity:  rgba(255,255,255,0.6);
+    --button-primary-hover: #188ce8; 
+    --primary-hover-color: #a20441; 
+    --button-filter: #f5f4fa;
+    --background-black: #2f303a; 
+    --background-grey: #f5f4fa;
+    --hero-background:  #2E2F42;
+
+}
+
+.logo {
+    list-style: none;
+}
+
+.header-navigator-item {
+    list-style: none;
+}
+
+.header-ctas {
+
+    list-style: none;
+}
+
+.header-navigator {
+    list-style: none;
+}
+
+.features-items {
+
+    list-style: none;
+}
+
+.wawd-items {
+
+    list-style: none;
+}
+
+.our-team-menu {
+
+    list-style: none;
+}
+
+.categories-item {
+    list-style: none;
+}
+
+.images-menu {
+    list-style: none;
+}
+
 .header-navigator-item :hover {
 
-    color: brown;
+    color: var(--primary-hover-color)
 
 }
 
 .header-navigator-item-ctas :hover {
-
-    color: brown;
+    color: var(--primary-hover-color)
 }
 
 .logo {
 
 font-family: 'Raleway', sans-serif;
 font-weight: 700;
-color: rgba(77, 90, 229, 1);
+color: black;
 
 }
 
+.logo-blue {
+
+    color:rgba(77, 90, 229, 1)
+}
+
+body {
+
+    font-family: 'Roboto', sans-serif;
+}
+
+.order-service {
+    
+    color: var(--button-filter);
+    background-color: var(--button-primary-hover) ;
+    border-radius: 0%;
+    border-color: nones;
+}
+
+.hero {
+
+    color: white;
+    background-color: #2E2F42;
+    margin: 0;
+    
+}
+
+.image-title-item {
+    font-weight: 500;
+}
+
+.images-menu {
+
+    font-weight: 400;
+}
